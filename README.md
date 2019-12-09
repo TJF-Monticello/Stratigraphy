@@ -1,3 +1,5 @@
+# Stratigraphy
+
 This repository contains an R code script with six sections. It prepares data to be composed into a [Harris Matrix](http://harrismatrix.com/), a type of graphic representation that enables users to visualize the stratigraphic sequence of an archaeological site.
 
 **Sections 1-5**
